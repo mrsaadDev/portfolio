@@ -10,12 +10,12 @@ export const User = () => {
       <InfoWrapper>
         
         <Info>
-          <Name>Saadulloh</Name>
-          <Professioon>Python Developer</Professioon>
+          <Name>Saadulloh Mahmadmurodov</Name>
+          <Professioon>Data Scientist</Professioon>
         </Info>
       </InfoWrapper>
       <List>
-        <Link target="_blank" href="https://t.me/saadulloh_mv">
+        <Link target="_blank" href="https://t.me/saadulloh">
           <FaTelegramPlane size={30} />
         </Link>
         <Link target="_blank" href="https://github.com/mrsaaddev">
