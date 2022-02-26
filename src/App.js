@@ -32,7 +32,7 @@ export const App = () => {
   return (
     <>
       <Helmet>
-        <title>Saadulloh</title>
+        <title>Saadulloh Mahmadmurodov</title>
       </Helmet>
       <Layout direction="row">
         <User />
